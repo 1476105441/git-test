@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>web-test Maven Webapp</name>
- 
+
   <url>http://www.example.com</url>
 
   <properties>

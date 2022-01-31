@@ -9,6 +9,7 @@ public class MyListener implements ServletContextListener {
     @Override
     public void contextInitialized(ServletContextEvent servletContextEvent) {
         System.out.println("服务启动");
+        System.out.println(111);
     }
 
     @Override
