@@ -15,5 +15,6 @@ public class MyListener implements ServletContextListener {
     @Override
     public void contextDestroyed(ServletContextEvent servletContextEvent) {
         System.out.println("服务关闭");
+        System.out.println(222);
     }
 }
